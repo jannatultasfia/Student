@@ -39,11 +39,11 @@ class Student {
 
 public class Main {
     public static void main(String[] args) {
-        Student s1 = new Student(1, "Ronaldo", 88);
-        Student s2 = new Student(2, "Messi", 92);
-        Student s3 = new Student(3, "Mbappe", 79);
-        Student s4 = new Student(4, "Yamal", 65);
-        Student s5 = new Student(5, "Vini Jr", 85);
+        Student s1 = new Student(1, "Jannatul", 88);
+        Student s2 = new Student(2, "Tasfia", 92);
+        Student s3 = new Student(3, "Snigdha", 79);
+        Student s4 = new Student(4, "Riya", 65);
+        Student s5 = new Student(5, "Shipa", 85);
 
         Student[] students = new Student[5];
         students[0] = s1;
